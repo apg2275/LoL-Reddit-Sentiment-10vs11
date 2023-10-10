@@ -1,6 +1,6 @@
 # Sentiment Analysis of Different Seasons of League of Legends
 ## Date: 12/10/2021
-
+In class NLP project for Rhetorical Metrics at UT Austin
 ## Introduction
 
 League of Legends is a game that once a year implements large scale fundamental changes to the game. Each cycle of these large-scale changes is called a season with small changes during each season called patches. Over the years parts of the community have said certain seasons were better than others. Especially how the changes in Season 11 made the game far less enjoyable compared to previous seasons. So, for this experiment I want to see how the community reacted to each season while it was still active and if people are looking back with rose-tinted glasses to previous seasons. 
